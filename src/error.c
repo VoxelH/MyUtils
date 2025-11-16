@@ -1,7 +1,6 @@
 #include "MyUtils/error.h"
 #include <stdio.h>
 
-
 #include <stdlib.h>
 
 #include "MyUtils/macro_magics.h"

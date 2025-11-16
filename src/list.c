@@ -1,7 +1,6 @@
 #include "MyUtils/list.h"
 #include "MyUtils/error.h"
 
-
 #include <stdlib.h>
 
 #define ReturnIfNull(obj, errorMessage)                                                                                \

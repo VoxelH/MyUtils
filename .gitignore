@@ -145,3 +145,4 @@ dkms.conf
 *.dwo
 
 .idea
+demos
